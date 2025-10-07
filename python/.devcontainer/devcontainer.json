@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/python:3-bullseye",
   "features": {
     "ghcr.io/duduribeiro/devcontainer-features/neovim:1": { "version": "stable" },
-    "ghcr.io/devcontainers-extra/features/ripgrep:1": {}
+    "ghcr.io/devcontainers-extra/features/ripgrep:1": {},
     "ghcr.io/devcontainers/features/node:1": { "version": "lts" }
   }
 }
